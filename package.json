@@ -1,0 +1,24 @@
+{
+  "name": "website-grid",
+  "version": "0.0.1",
+  "description": "A static site built using css grid and spectre",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "nojs",
+    "spectre",
+    "grid",
+    "static",
+    "web"
+  ],
+  "author": "leo gaskin",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.11.0",
+    "spectre.css": "^0.5.3"
+  }
+}
